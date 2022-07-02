@@ -6,7 +6,7 @@
 [![FindMe: FMachadoBr](https://img.shields.io/badge/-FindMe-green?style=flat-square&logo=linktree&logoColor=white&link=https://fmachadobr.netlify.app/)](https://fmachadobr.netlify.app/)
 
 <p align="right">
-  <img src="https://images.credly.com/size/340x340/images/3be57d7c-55de-4119-9ca9-738e20c0fae0/Scrum-Foundation-Professional-Certificate-SFPC-2021_.png" alt="scrum" width="300" height="300"/>  
+  <img src="https://images.credly.com/size/340x340/images/3be57d7c-55de-4119-9ca9-738e20c0fae0/Scrum-Foundation-Professional-Certificate-SFPC-2021_.png" alt="scrum" width="150" height="150"/>  
 </p>
 
 <h2 align="center"> Skills 🔧 </h2>
