@@ -8,11 +8,11 @@
 <h2 align="center"> Skills 🔧 </h2>
 
 <p align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" alt="linux" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="linux" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>   
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>   
 </p>
 
 
