@@ -27,6 +27,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> 
 </p>
 
+<h2 align="center"> Certifications </h2>
+
 <p align="center">
   <img src="https://images.credly.com/size/340x340/images/3be57d7c-55de-4119-9ca9-738e20c0fae0/Scrum-Foundation-Professional-Certificate-SFPC-2021_.png" alt="scrumsfpc" width="150" height="150"/>
   <img src="https://images.credly.com/images/9b597652-5359-4187-86dc-9eee5d779741/Fundamentos-Na-Lei-Geral-De-Prote%C3%A7%C3%A3o-De-Dados---LGPDF.png" alt="lgpd" width="150" height="150"/>
