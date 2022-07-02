@@ -5,6 +5,10 @@
 [![Linkedin: felipemachado1](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipemachado1/)](https://www.linkedin.com/in/felipemachado1/)
 [![FindMe: FMachadoBr](https://img.shields.io/badge/-FindMe-green?style=flat-square&logo=linktree&logoColor=white&link=https://fmachadobr.netlify.app/)](https://fmachadobr.netlify.app/)
 
+<p align="right">
+  <img src="https://images.credly.com/size/340x340/images/3be57d7c-55de-4119-9ca9-738e20c0fae0/Scrum-Foundation-Professional-Certificate-SFPC-2021_.png" alt="scrum" width="50" height="50"/>  
+</p>
+
 <h2 align="center"> Skills 🔧 </h2>
 
 <p align="center">
