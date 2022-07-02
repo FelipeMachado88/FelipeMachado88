@@ -1,4 +1,4 @@
-<h2 align="center">Hi, i'm Felipe!</h2>
+<h2 align="center">Hi, i'm Felipe! 😎 </h2>
 
 <p align="left"> I'm a software developer, and i've been studying technology since 2020 in the graduation in Systems Analysis and Development. I'm from Brazil 🇧🇷, and i'm currently living in João Pessoa-PB.</p>
 
@@ -27,7 +27,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> 
 </p>
 
-<h2 align="center"> Certifications </h2>
+<h2 align="center"> Certifications ✅ </h2>
 
 <p align="center">
   <img src="https://images.credly.com/size/340x340/images/3be57d7c-55de-4119-9ca9-738e20c0fae0/Scrum-Foundation-Professional-Certificate-SFPC-2021_.png" alt="scrumsfpc" width="100" height="100"/>
