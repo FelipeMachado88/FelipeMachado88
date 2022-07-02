@@ -5,9 +5,6 @@
 [![Linkedin: felipemachado1](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipemachado1/)](https://www.linkedin.com/in/felipemachado1/)
 [![FindMe: FMachadoBr](https://img.shields.io/badge/-FindMe-green?style=flat-square&logo=linktree&logoColor=white&link=https://fmachadobr.netlify.app/)](https://fmachadobr.netlify.app/)
 
-<p align="right">
-  <img src="https://images.credly.com/size/340x340/images/3be57d7c-55de-4119-9ca9-738e20c0fae0/Scrum-Foundation-Professional-Certificate-SFPC-2021_.png" alt="scrum" width="150" height="150"/>  
-</p>
 
 <h2 align="center"> Skills 🔧 </h2>
 
@@ -20,7 +17,6 @@
 </p>
 
 
-
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="angular" width="30" height="30"/>
@@ -30,5 +26,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> 
 </p>
+
+<p align="center">
+  <img src="https://images.credly.com/size/340x340/images/3be57d7c-55de-4119-9ca9-738e20c0fae0/Scrum-Foundation-Professional-Certificate-SFPC-2021_.png" alt="scrumsfpc" width="150" height="150"/>
+  <img src="https://images.credly.com/images/9b597652-5359-4187-86dc-9eee5d779741/Fundamentos-Na-Lei-Geral-De-Prote%C3%A7%C3%A3o-De-Dados---LGPDF.png" alt="lgpd" width="150" height="150"/>
+  <img src="https://images.credly.com/size/340x340/images/f5cf37e4-6ebd-4067-96a9-b26d04f51ff7/CertiProf-Badge-LLL.png" alt="lll" width="150" height="150"/>
+  <img src="https://www.scrumstudy.com/Scrum-Images/brand-logo/badge-SFC.png" alt="scrumstudy" width="150" height="150"/>
+</p>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=FelipeMachado88" alt="FelipeMachado88"/> </p>
