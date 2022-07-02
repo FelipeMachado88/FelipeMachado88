@@ -30,10 +30,11 @@
 <h2 align="center"> Certifications </h2>
 
 <p align="center">
-  <img src="https://images.credly.com/size/340x340/images/3be57d7c-55de-4119-9ca9-738e20c0fae0/Scrum-Foundation-Professional-Certificate-SFPC-2021_.png" alt="scrumsfpc" width="110" height="110"/>
-  <img src="https://images.credly.com/images/9b597652-5359-4187-86dc-9eee5d779741/Fundamentos-Na-Lei-Geral-De-Prote%C3%A7%C3%A3o-De-Dados---LGPDF.png" alt="lgpd" width="110" height="110"/>
-  <img src="https://images.credly.com/size/340x340/images/f5cf37e4-6ebd-4067-96a9-b26d04f51ff7/CertiProf-Badge-LLL.png" alt="lll" width="110" height="110"/>
-  <img src="https://www.scrumstudy.com/Scrum-Images/brand-logo/badge-SFC.png" alt="scrumstudy" width="110" height="110"/>
+  <img src="https://images.credly.com/size/340x340/images/3be57d7c-55de-4119-9ca9-738e20c0fae0/Scrum-Foundation-Professional-Certificate-SFPC-2021_.png" alt="scrumsfpc" width="100" height="100"/>
+  <img src="https://images.credly.com/images/9b597652-5359-4187-86dc-9eee5d779741/Fundamentos-Na-Lei-Geral-De-Prote%C3%A7%C3%A3o-De-Dados---LGPDF.png" alt="lgpd" width="100" height="100"/>
+  <img src="https://images.credly.com/size/340x340/images/f5cf37e4-6ebd-4067-96a9-b26d04f51ff7/CertiProf-Badge-LLL.png" alt="lll" width="100" height="100"/>
+  <img src="https://images.credly.com/images/165466d3-37d8-4dcb-821d-cb072cfd2a69/CertiProf-Badge-DEPC.png" alt="depc" width="100" height="100"/>
+  <img src="https://www.scrumstudy.com/Scrum-Images/brand-logo/badge-SFC.png" alt="scrumstudy" width="100" height="100"/>
 </p>
 
 
