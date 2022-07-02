@@ -1,6 +1,6 @@
 <h2 align="center">Hi, i'm Felipe! 😎 </h2>
 
-<p align="left"> I'm a software developer, and i've been studying technology since 2020 in the graduation in Systems Analysis and Development. I'm from Brazil 🇧🇷, and i'm currently living in João Pessoa-PB.</p>
+<p align="left"> I'm a software developer, and i've been studying technology since 2020 in the graduation in Systems Analysis and Development (4/5). I'm from Brazil 🇧🇷, and i'm currently living in João Pessoa-PB.</p>
 
 [![Linkedin: felipemachado1](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipemachado1/)](https://www.linkedin.com/in/felipemachado1/)
 [![FindMe: FMachadoBr](https://img.shields.io/badge/-FindMe-green?style=flat-square&logo=linktree&logoColor=white&link=https://fmachadobr.netlify.app/)](https://fmachadobr.netlify.app/)
