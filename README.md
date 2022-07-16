@@ -10,22 +10,20 @@
 
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>   
 </p>
 
-
 <p align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="28" height="28"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="angular" width="28" height="28"/>
-  <img src="https://media-exp1.licdn.com/dms/image/C4D12AQFhlYow_0XQBA/article-cover_image-shrink_720_1280/0/1571543597550?e=1660176000&v=beta&t=lKtU4asIUSrDEXvSswxXhmcWhSbVg2eKxfsGqzu71eU" alt="springboot" width="28" height="28"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="28" height="28"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="28" height="28"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="28" height="28"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="28" height="28"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="26" height="26"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="angular" width="26" height="26"/>
+  <img src="https://media-exp1.licdn.com/dms/image/C4D12AQFhlYow_0XQBA/article-cover_image-shrink_720_1280/0/1571543597550?e=1660176000&v=beta&t=lKtU4asIUSrDEXvSswxXhmcWhSbVg2eKxfsGqzu71eU" alt="springboot" width="26" height="26"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="26" height="26"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="26" height="26"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="26" height="26"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="26" height="26"/> 
 </p>
 
 <h2 align="center"> Certifications ✅ </h2>
