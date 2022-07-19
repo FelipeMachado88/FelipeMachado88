@@ -20,6 +20,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="26" height="26"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="angular" width="26" height="26"/>
   <img src="https://media-exp1.licdn.com/dms/image/C4D12AQFhlYow_0XQBA/article-cover_image-shrink_720_1280/0/1571543597550?e=1660176000&v=beta&t=lKtU4asIUSrDEXvSswxXhmcWhSbVg2eKxfsGqzu71eU" alt="springboot" width="26" height="26"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="26" height="26"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="26" height="26"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="26" height="26"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="26" height="26"/>
